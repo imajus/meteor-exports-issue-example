@@ -1,1 +1,9 @@
+import '@insurgent/export-map-test';
 import '@insurgent/export-map-test/simple';
+import '@insurgent/export-map-test/conditional';
+import '@insurgent/export-map-test/wildcard/css.css';
+import '@insurgent/export-map-test/wildcard/js.js';
+import '@insurgent/export-map-test/wildcard/svg.svg';
+import '@insurgent/export-map-test/wildcard-js/one';
+import '@insurgent/export-map-test/wildcard-js/two';
+import '@insurgent/export-map-test/wildcard-js/three';
